@@ -1,0 +1,14 @@
+.sedona-main{
+    position: absolute;
+    background-color: thistle;
+    left: 10px;
+    top: 250px;
+}
+
+.subscribe-title {
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
