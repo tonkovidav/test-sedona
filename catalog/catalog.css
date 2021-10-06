@@ -1,0 +1,29 @@
+.sedona-main{
+    position: absolute;
+    background-color: thistle;
+    left: 10px;
+    top: 250px;
+}
+
+.subscribe-title {
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+.catalog-controls{
+    display: flex;
+    flex-direction:row;
+}
+.places-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.places-item-discription{
+margin-left: 100px;
+}
+.places-item-rate {
+    margin-left: 400px;
+}

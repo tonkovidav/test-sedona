@@ -1,3 +1,12 @@
+.page-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.head-controls{
+    display: flex;
+    flex-direction: row;
+}
 .sedona-main{
     position: absolute;
     background-color: thistle;
